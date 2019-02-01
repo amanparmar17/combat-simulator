@@ -11,7 +11,7 @@ and stored in their army. The commanders may spend as much or as little of their
 
 ## Basic combat simulator
 
-#### file name: **_basic_combat_sim.py_**
+#### File name: **_basic_combat_simulator.py_**
 
 There are **three** types of units available, in the basic simulator:
 * Archer
@@ -29,3 +29,6 @@ Table below indicates who wins in any encounter.
 
 After each fight, the winner is left on the battlefield to fight the next combatant. If both units
 lose, then two new units are taken from the army and begin their fight.
+
+
+## Advance combat simulator
